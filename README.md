@@ -1,5 +1,5 @@
 # AMBA_CHI.H_HN-F-base-chisel-systemverilog
-主要是用于一个下班无聊的CPU前端开发工程师出于对公司设计架构实现的不满，所以准备自己业余写一个基于AMBA一致性协议CHI.0H版本的HN-F节点cache代码仓库
+主要是用于一个下班无聊的CPU前端开发工程师，准备自己业余写一个基于AMBA一致性协议CHI.0H版本的HN-F节点cache代码仓库
 
 # 基于CHI协议0H版本的HN-F模型开发架构文档及需求分析方案
 
